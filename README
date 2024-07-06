@@ -1,0 +1,3 @@
+Install DREAMHOST_API_KEY env variable into .bashrc
+`export DREAMHOST_API_KEY=yourkeyhere`
+

@@ -1,0 +1,1 @@
+0 * * * * /root/.nvm/versions/node/v18.17.1/bin/node /opt/ip_update/dh.js > /opt/ip_update/log.txt
